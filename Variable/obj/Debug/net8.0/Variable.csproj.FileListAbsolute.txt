@@ -1,0 +1,14 @@
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\bin\Debug\net8.0\Variable.exe
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\bin\Debug\net8.0\Variable.deps.json
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\bin\Debug\net8.0\Variable.dll
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\bin\Debug\net8.0\Variable.pdb
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.dll
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\refint\Variable.dll
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.pdb
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+C:\Users\84365\Documents\GitHub\test2\MyFirstCSharpApp\Variable\obj\Debug\net8.0\ref\Variable.dll
